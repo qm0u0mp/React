@@ -8,6 +8,9 @@ import SignUpContainer from './commponent_manage/example/SignUpContainer';
 import EventComponent from './interaction/EventComponent';
 import StateComponent from './interaction/StateComponent';
 import ForwordingStateComponent from './interaction/ForwordingStateComponent';
+import CustomHook from './hook/CustomHook';
+import HookComponent2 from './hook/HookComponent2';
+import HookComponent1 from './hook/HookComponent1';
 // import { Component } from './component/Component'; => default로 반환하지 않을 시, 이름 변경 불가, {} 안에 작성
 // import { Component as Custom } from './component/Component'; => Component를 두번 import 하여 사용할 경우 'as'를 사용하여 다른 이름으로 사용 가능 / return 시 as 뒤에 있는 이름으로 작성하여 반환
 
@@ -103,7 +106,10 @@ function App() {
       {/* <ListRendering /> */}
       {/* <EventComponent/> */}
       {/* <StateComponent/> */}
-      <ForwordingStateComponent/>
+      {/* <ForwordingStateComponent/> */}
+      {/* <HookComponent1 /> */}
+      {/* <HookComponent2 /> */}
+      {/* <CustomHook /> */}
     </>
   );
 }
