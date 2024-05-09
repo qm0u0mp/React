@@ -23,6 +23,10 @@
 ### react-cookie 설치
 - 설치하려는 위치 확인하고 
 - npm install react-cookie
+
+### chart.js 설치
+- npm install chart.js
+- npm install chart react-chartjs-2
 ============================================
 
 ### axios, react-cookie
