@@ -27,6 +27,11 @@
 ### chart.js 설치
 - npm install chart.js
 - npm install chart react-chartjs-2
+
+### dotenv 설치
+- npm install dotenv
+- npm i dotenv-cli
+  
 ============================================
 
 ### axios, react-cookie
