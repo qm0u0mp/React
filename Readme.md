@@ -37,7 +37,7 @@
 
 ### 배포
 - npm install -g serve (-g : 글로벌 영역)
-- serve -s build
+- serve -s build (local 주소로 실행)
   
 ============================================
 
