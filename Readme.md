@@ -31,6 +31,13 @@
 ### dotenv 설치
 - npm install dotenv
 - npm i dotenv-cli
+
+### Build 실행
+- npm run build:development
+
+### 배포
+- npm install -g serve (-g : 글로벌 영역)
+- serve -s build
   
 ============================================
 
