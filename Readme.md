@@ -34,6 +34,8 @@
 
 ### Build 실행
 - npm run build:development
+=> 코드 수정 시 다시 실행
+=> powerShell에서 git pull
 
 ### 배포
 - npm install -g serve (-g : 글로벌 영역)
