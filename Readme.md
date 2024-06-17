@@ -32,6 +32,9 @@
 - npm install dotenv
 - npm i dotenv-cli
 
+### Map 설치
+- npm install react-kakao-maps-sdk
+
 ### Build 실행
 - npm run build:development
 => 코드 수정 시 다시 실행
